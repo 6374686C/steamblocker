@@ -16,9 +16,9 @@ This app is purely for learning purposes.
 - **Python:** Python 3.11 or later (if compiling from source)
 - **Dependencies:** Listed in [requirements.txt](requirements.txt)
 
-### Compiled Version
+### Download Windows Executable
 
-Download the Windows executable from the [Releases](https://github.com/6374686C/steamblocker/releases) section. 
+You can grab the compiled exe from [Releases](https://github.com/6374686C/steamblocker/releases) section. 
 
 ![preview](https://github.com/user-attachments/assets/98c691ee-8b2a-491e-9300-846cfdb9a48d)
 
