@@ -28,3 +28,4 @@ Download the compiled executable from the [Releases](https://github.com/6374686C
    pip install pyqt6 pyinstaller
    pyinstaller --onefile --noconsole --icon=icon.ico steam_blocker.py
    ```
+![preview](https://github.com/user-attachments/assets/98c691ee-8b2a-491e-9300-846cfdb9a48d)
