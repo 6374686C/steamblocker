@@ -14,14 +14,14 @@ A simple tool for blocking Steam connections on Windows 10/11 using the Microsof
 
 ### Compiled Version
 
-Download the compiled executable from the [Releases](https://github.com/yourusername/steam-blocker-gui/releases) section. Note that compiled binaries using PyInstaller may trigger false positives on VirusTotal.
+Download the compiled executable from the [Releases](https://github.com/6374686C/steamblocker/releases) section. Note that compiled binaries using PyInstaller may trigger false positives on VirusTotal.
 
 ### Building from Source
 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/steam-blocker-gui.git
+   git clone https://github.com/6374686C/steamblocker.git
    cd steam-blocker-gui
    python -m venv venv
    venv\scripts\activate
