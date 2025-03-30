@@ -16,6 +16,8 @@ A simple tool that blocks Steam from connecting to the internet on Windows 10/11
 
 Download the compiled executable from the [Releases](https://github.com/6374686C/steamblocker/releases) section. Note that compiled binaries using PyInstaller trigger false positives on [VirusTotal](https://www.virustotal.com/gui/file/304a32f786bdea576e9b92932019ce2dd05646123d38cbb0a462efb27672cf13?nocache=1).
 
+![preview](https://github.com/user-attachments/assets/98c691ee-8b2a-491e-9300-846cfdb9a48d)
+
 ### Building from Source
 
 1. **Clone the Repository:**
@@ -28,4 +30,3 @@ Download the compiled executable from the [Releases](https://github.com/6374686C
    pip install pyqt6 pyinstaller
    pyinstaller --onefile --noconsole --icon=icon.ico steam_blocker.py
    ```
-![preview](https://github.com/user-attachments/assets/98c691ee-8b2a-491e-9300-846cfdb9a48d)
