@@ -44,7 +44,6 @@ STEAM_EXECUTABLES_RELATIVE = [
 
 # Find where's Steam located
 def get_steam_install_path():
-    """Query the Windows registry for Steam's installation path."""
     try:
         for reg_path in [
             r"SOFTWARE\Valve\Steam",
