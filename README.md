@@ -26,7 +26,7 @@ Download the compiled executable from the [Releases](https://github.com/6374686C
 
    ```bash
    git clone https://github.com/6374686C/steamblocker.git
-   cd steam-blocker-gui
+   cd steamblocker
    python -m venv venv
    venv\scripts\activate
    pip install pyqt6 pyinstaller
