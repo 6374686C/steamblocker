@@ -2,6 +2,8 @@
 
 A simple tool that blocks Steam from connecting to the internet on Windows 10/11 using Windows Defender Firewall.  Why? I don't know, maybe you just wanna keep Steam offline, maybe you have self-control issues, or maybe you just like pushing buttons.
 
+This app is purely for learning purposes.
+
 > **Note:** This project was compiled using PyInstaller, which may trigger false positives on VirusTotal. For a clean build, compile the source yourself by installing Python and running `pip install -r requirements.txt`.
 
 ## Requirements
